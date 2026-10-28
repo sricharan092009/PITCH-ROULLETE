@@ -1,0 +1,147 @@
+TRADEPASSPORT — KRATOS’26 PITCH ROULETTE
+AI PROMPT LOG
+=========================================
+
+Purpose
+-------
+This log records prompts used to develop the TradePassport pitch, useful outputs, and why each prompt was used. It is prepared as an editable project record; replace reconstructed prompts with exact prompt history if verbatim records are required.
+
+Project context
+---------------
+Event: KRATOS’26 Pitch Roulette
+Domain: Education & Skill Development
+Problem: “The Credential That Doesn’t Travel”
+Solution: TradePassport — a portable digital skill credential that helps employers verify assessed competencies.
+
+Core scenario
+-------------
+A 22-year-old ITI electrician in Hosur has two years of experience, but contractors in Chennai struggle to verify practical competencies and may not offer skilled rates without trusted proof.
+
+PROMPT 1 — DEFINE THE PROBLEM
+-----------------------------
+Prompt:
+“Help me express the problem ‘The Credential That Doesn’t Travel’ in four crisp lines for a startup pitch. Focus on the gap between work experience and verified practical skills, employers’ difficulty checking competence, and workers losing opportunities. Keep the wording concise and presentation-ready.”
+
+Useful output:
+- Certificates prove qualifications, not necessarily practical skills.
+- Employers struggle to verify real-world competence.
+- Skilled workers can lose opportunities and better pay.
+- Core gap: Experience ≠ verified skill.
+
+Why we used it:
+To make the problem clear and memorable on one slide.
+
+PROMPT 2 — PRESENT THE SOLUTION
+-------------------------------
+Prompt:
+“Create concise solution-slide content for TradePassport, a portable digital skill passport. Explain the three steps ASSESS → CERTIFY → VERIFY, including practical assessment, an authorised issuer digitally signing the result, and employers checking a QR code or short ID. Add one strong hook line.”
+
+Useful output:
+Headline: FROM SKILL TO TRUST.
+Hook: What if every skill could carry trusted proof?
+- ASSESS — Test practical skills competency by competency.
+- CERTIFY — An authorised issuer digitally signs the results.
+- VERIFY — Employers scan a QR code or enter an ID to verify credentials.
+Closing line: One portable Skill Passport. Verified skills. More opportunities.
+
+Why we used it:
+To explain the solution as a simple three-step workflow.
+
+PROMPT 3 — EXPLAIN THE TECHNICAL BACKBONE
+-----------------------------------------
+Prompt:
+“Write crisp technical-backbone slide content for TradePassport. Show the flow Worker → Assessor → Issuer → Employer. Include competency scores and assessment date, digital signatures to detect credential tampering, and issuer/status checks. Keep it understandable to a non-technical jury.”
+
+Useful output:
+Headline: ONE QR. VERIFIED SKILLS.
+- SKILL RECORD — Competency scores and assessment date.
+- DIGITAL SIGNATURE — Detects credential tampering.
+- TRUST CHECK — Confirms issuer and credential status.
+Closing line: Portable proof. Tamper-evident. Easy to verify.
+
+Why we used it:
+To explain how the system creates a trustworthy, verifiable record.
+
+PROMPT 4 — MARKET AND BUSINESS MODEL
+------------------------------------
+Prompt:
+“Create a concise Market & Money slide for TradePassport. Identify electrical contractors as the initial customer, explain how the product helps match workers to role requirements and verify skills before assigning skilled work, and show subscriptions plus assessment fees as possible revenue. Clearly label ₹5,000 per month as a pricing hypothesis to validate, not proven pricing.”
+
+Useful output:
+Headline: CONTRACTORS PAY FOR TRUST.
+- CUSTOMERS — Electrical contractors seeking skilled workers.
+- VALUE — Match workers to roles and verify skills before hiring.
+- REVENUE — Contractor subscriptions + assessment fees.
+- PRICING — ₹5,000/month proposed pilot price to validate.
+
+Why we used it:
+To explain who pays, what value they receive, and how revenue might work without presenting an untested price as proven.
+
+PROMPT 5 — DIFFERENTIATION AND VISION
+-------------------------------------
+Prompt:
+“Create a crisp Edge & Vision slide for TradePassport. Highlight competency-level verification rather than a generic certificate, portable QR credentials with privacy-controlled sharing, skill-gap pathways, and a plan to pilot with electricians before expanding to other trades.”
+
+Useful output:
+Headline: THE EDGE & THE VISION
+Hook: Beyond certificates. Towards verified careers.
+- PROVE — Competency-level skill verification.
+- CARRY — Portable QR credentials with controlled sharing.
+- GROW — Identify skill gaps and unlock career pathways.
+- SCALE — Start with electricians, expand across trades.
+Closing line: Proof that travels. Skills that grow.
+
+Why we used it:
+To show why the solution is different and how it can expand over time.
+
+PROMPT 6 — FINAL TAGLINE
+------------------------
+Prompt:
+“Suggest short, memorable closing taglines for a startup called TradePassport. The tagline should connect portable skill proof, employer trust, and worker opportunity. Give several options and recommend the strongest one.”
+
+Selected tagline:
+“Skills that travel. Trust that pays.”
+
+Why we used it:
+To end the pitch with a memorable line connected to the product’s value.
+
+PROMPT 7 — TECHNICAL SPEECH
+---------------------------
+Prompt:
+“Write a natural 45–60 second speech for the technical-backbone slide. Explain Worker → Assessor → Issuer → Employer, skill records, digital signatures, and QR/ID verification in language a startup jury can understand. End with a strong takeaway.”
+
+Useful output:
+“Now, let’s look at how TradePassport builds trust through technology.
+
+Our process follows four steps: Worker, Assessor, Issuer, and Employer.
+
+First, the worker’s practical skills are assessed competency by competency, and the results are recorded along with the assessment date.
+
+Next, an authorised issuer digitally signs the credential. This helps detect any unauthorised changes to the record.
+
+Finally, the employer scans the QR code or enters a unique ID to verify the issuer and check the credential’s status.
+
+This means employers don’t have to rely only on certificates or claims. They can check verified skill records before making hiring decisions.
+
+With TradePassport, proof of skills becomes portable, tamper-evident, and easy to verify.”
+
+Why we used it:
+To prepare a spoken explanation of the technical workflow for the pitch.
+
+TECHNICAL ACCURACY NOTES
+------------------------
+- A QR code alone does not prove that a credential is authentic.
+- Digital signatures and issuer/status checks help support verification.
+- “Tamper-evident” is more precise than claiming a system is impossible to tamper with.
+- The ₹5,000/month price is a hypothesis to test with customers, not validated market evidence.
+- Describe competency assessments and authorised issuers as part of the proposed workflow unless the pilot has already implemented them.
+
+TEAM REVIEW CHECKLIST
+---------------------
+[ ] Replace reconstructed prompts with exact prompt history if a verbatim log is required.
+[ ] Add the actual AI tool/model and dates used, if required.
+[ ] Confirm all market, pricing, and technical claims before presenting.
+[ ] Keep a copy of the final pitch deck with the log.
+[ ] Make sure all team members understand the workflow and business model.
+
+End of log.
